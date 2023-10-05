@@ -1,2 +1,2 @@
 # DevShop
-All notifications consolidated into a single application
+All dev notifications consolidated into a single application
